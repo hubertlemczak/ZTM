@@ -1,0 +1,11 @@
+{
+  "name": "ztm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "debug"
+  },
+  "author": "",
+  "license": "ISC"
+}
